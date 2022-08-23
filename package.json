@@ -1,0 +1,27 @@
+{
+  "name": "modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start":"parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pavithrank02/Modules.git"
+  },
+  "author": "", 
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pavithrank02/Modules/issues"
+  },
+  "homepage": "https://github.com/Pavithrank02/Modules#readme",
+  "dependencies": {
+    "leaflet": "^1.8.0",
+    "lodash-es": "^4.17.21"
+  },
+  "devDependencies": {
+    "parcel": "^2.7.0"
+  }
+}
